@@ -1,7 +1,10 @@
 1. Download and install <Canopy>.
+https://www.enthought.com/products/canopy/academic/
+
 2. Download and install <Gensim> 0.86 using tar.gz package. 
 https://pypi.python.org/packages/source/g/gensim/gensim-0.8.6.tar.gz#md5=408405702f6541e07653711a7eb04a13
 
 Run "python setup.py install". 
 If encounter errors like "xxx" file does not exist, delete those files in the setup directory.
+
 3. Read tutorials on Gensim's website.
