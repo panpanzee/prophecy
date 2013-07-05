@@ -1,0 +1,3 @@
+1. Download and install <Canopy>.
+2. Download and install <Gensim> 0.86 using tar.gz package. Run "python setup.py install". If encounter errors like "xxx" file not found, delete those files in the setup directory.
+3. Read tutorials on Gensim's website.
